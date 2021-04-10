@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @barrywimlett
 - 👀 I’m interested in Programming and Gaming , EliteDangerous
 - 🌱 I’m currently learning Azure Devops
-- 💞️ I’m looking to collaborate on C#,SQL,WPF,
+- 💞️ I’m looking to collaborate on ...
 - 💞️ I’m looking to proficient in C#,SQL,WPF,HTML,MVC/WebAPI
 - 📫 How to reach me Discord barmyarmy#2299 
 
